@@ -1,7 +1,7 @@
 📈 股市市场研究驾驶舱
 
 
-<img width="1280" height="1280" alt="首页" src="https://github.com/Alex0510/stock/stock.png" />
+<img width="1280" height="1280" alt="首页" src="https://github.com/Alex0510/stock/blob/2f1aa0478df1bbb893683877cccfa7470e406198/stock.png" />
 
 基于 Cloudflare Workers 搭建的在线股市行情与市场研究驾驶舱。
 
